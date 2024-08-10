@@ -85,18 +85,6 @@ I am an experienced Software Developer Engineer II with expertise in AI/ML, full
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tatpar2210&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tatpar2210&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
