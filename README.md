@@ -2,10 +2,6 @@
 <h3 align="center">Software Developer Engineer II | AI/ML Engineer | Python Developer | MERN/MEAN Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tatpar2210&theme=dracula" alt="tatpar2210" />
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/tatpar-mishra-267aa0208" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://stackoverflow.com/users/16821466" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
   <a href="https://kaggle.com/tatparmishra" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
