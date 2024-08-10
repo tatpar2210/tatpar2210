@@ -1,4 +1,4 @@
-<h1 align="center">Hi Developers 👋, I'm Tatpar Mishra</h1>
+<h1 align="center">Hi Devs 👋, I'm Tatpar Mishra</h1>
 <h3 align="center">Software Developer Engineer II | AI/ML Engineer | Python Developer | MERN/MEAN Full Stack Developer</h3>
 
 <p align="center">
